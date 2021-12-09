@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Programming/c++/QtTest/build-Qt-Desktop_Qt_5_12_12_MSVC2015_64bit-Debug/CMakeFiles/Qt.dir/embed.manifest"
